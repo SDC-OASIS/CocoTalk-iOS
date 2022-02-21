@@ -64,7 +64,7 @@ open CocoTalk.xcworkspace
 
 각 화면에서 데이터를 요청할 때 요청을 보낸 객체에서 결과 값을 subscribe하는 방법으로 구현했습니다. 데이터 요청하는 단계는 ViewController, ViewModel, Repository, Data networking 순서입니다. 
 
-<img src="/images/data_flow.png" alt="data_flow"  width='20%' />
+<img src="https://github.com/SDC-OASIS/CocoTalk-iOS/blob/master/images/data_flow.png?raw=true" alt="data_flow"  width='20%' />
 
 
 
